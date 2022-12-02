@@ -1,8 +1,14 @@
 package main
 
-import "aoc2022/src/day01"
+import (
+	"aoc2022/src/day01"
+	"aoc2022/src/day02"
+)
 
 func main() {
 	day01.Puzzle1()
 	day01.Puzzle2()
+
+	day02.Puzzle1()
+	day02.Puzzle2()
 }

@@ -89,5 +89,5 @@ func Puzzle2() {
 
 	fmt.Println("Max calories top 3: ", max)
 
-	fmt.Printf("Time elapsed %s\n", time.Since(start))
+	fmt.Printf("Time elapsed %s\n\n", time.Since(start))
 }
