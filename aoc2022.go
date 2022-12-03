@@ -3,6 +3,7 @@ package main
 import (
 	"aoc2022/src/day01"
 	"aoc2022/src/day02"
+	"aoc2022/src/day03"
 )
 
 func main() {
@@ -11,4 +12,7 @@ func main() {
 
 	day02.Puzzle1()
 	day02.Puzzle2()
+
+	day03.Puzzle1()
+	day03.Puzzle2()
 }
