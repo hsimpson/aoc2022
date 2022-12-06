@@ -6,6 +6,7 @@ import (
 	"aoc2022/src/day03"
 	"aoc2022/src/day04"
 	"aoc2022/src/day05"
+	"aoc2022/src/day06"
 )
 
 func main() {
@@ -23,4 +24,7 @@ func main() {
 
 	day05.Puzzle1()
 	day05.Puzzle2()
+
+	day06.Puzzle1()
+	day06.Puzzle2()
 }
