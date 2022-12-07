@@ -15,3 +15,5 @@
 # vendor/
 
 aoc2022
+
+.DS_Store
